@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="{{ 'fly-to-cart.css' | asset_url }}" media="all">
+
+<div id="cart-popup" class="cart-popup">
+  <span>Item added to your cart!</span>
+</div>
+
+<script>
+  const cartUrl = "{{ routes.cart_url }}";
+</script>
+
+<script src="{{ 'fly-to-cart.js' | asset_url }}" defer></script>
