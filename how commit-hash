@@ -1,0 +1,34 @@
+[33m7b9e8b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from dev to main
+[33mc9ca8ed[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{1}: checkout: moving from main to dev
+[33m7b9e8b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: Merge main to dev - Cart-badge-count
+[33m189263c[m HEAD@{3}: checkout: moving from dev to main
+[33mc9ca8ed[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{4}: commit: Refactor cart item count display in header
+[33m70dd3c6[m HEAD@{5}: reset: moving to origin/dev
+[33m70dd3c6[m HEAD@{6}: reset: moving to origin/dev
+[33m62a41d9[m HEAD@{7}: reset: moving to origin/dev
+[33m62a41d9[m HEAD@{8}: reset: moving to origin/dev
+[33m62a41d9[m HEAD@{9}: reset: moving to 62a41d9
+[33m189263c[m HEAD@{10}: reset: moving to 189263c
+[33m62a41d9[m HEAD@{11}: reset: moving to origin/dev
+[33m62a41d9[m HEAD@{12}: reset: moving to HEAD~1
+[33maaa404e[m HEAD@{13}: reset: moving to aaa404e
+[33m189263c[m HEAD@{14}: reset: moving to HEAD~1
+[33m16909be[m HEAD@{15}: commit: Add cart button with item count badge
+[33m189263c[m HEAD@{16}: reset: moving to HEAD~1
+[33m6f99127[m HEAD@{17}: reset: moving to 6f991273b241aae1c83313f3a67d593053758f31
+[33m6f99127[m HEAD@{18}: commit: Add cart button with item count badge
+[33m189263c[m HEAD@{19}: reset: moving to HEAD~1
+[33mc220b54[m HEAD@{20}: commit: Add cart button with item count badge
+[33m189263c[m HEAD@{21}: reset: moving to HEAD~1
+[33mccb857c[m HEAD@{22}: commit: Add cart button with item count badge
+[33m189263c[m HEAD@{23}: reset: moving to HEAD~1
+[33m62a41d9[m HEAD@{24}: reset: moving to HEAD~1
+[33maaa404e[m HEAD@{25}: commit: Add cart button with item count badge
+[33m62a41d9[m HEAD@{26}: commit: Add cart icon badge showing unique item count
+[33m189263c[m HEAD@{27}: checkout: moving from main to dev
+[33m189263c[m HEAD@{28}: checkout: moving from dev to main
+[33m189263c[m HEAD@{29}: checkout: moving from main to dev
+[33m189263c[m HEAD@{30}: checkout: moving from dev to main
+[33m189263c[m HEAD@{31}: checkout: moving from main to dev
+[33m189263c[m HEAD@{32}: checkout: moving from main to main
+[33m189263c[m HEAD@{33}: commit (initial): initial commit
